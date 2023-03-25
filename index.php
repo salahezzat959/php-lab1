@@ -1,7 +1,7 @@
 <?php
 //& Task 1
 
-phpinfo()
+phpinfo();
 
 //&task 2
 
